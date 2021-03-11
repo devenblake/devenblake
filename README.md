@@ -1,1 +1,7 @@
-Check out my website for who I am and stuff.
+Check out my website for who I am and stuff. Here's a little bio.
+
+My journey into programming is thus (though the memories are foggy): I started out with BASIC at maybe 7 or 8 years old and never did anything of value with it. When I was 10 I took a class on the Java flavor of Processing (version 2.0 then), didn't do much with that either. 11 it was either that or Python, probably Python and Python 3 if so. Did more Python here and there and around that time learned some basic HTML and CSS. A little later I learned an unfortunate amount of Microsoft Batch after having already learned years prior how to navigate DOS. Continued with Batch and some Python until I was 12 or 13 or so when I got into Linux and BASh, then it was Batch, Python, and shell until I had a netbook running Linux on bare metal when I finally dropped Batch and started picking up some C. From 2016-2018 I also spent a lot of time working in TI-BASIC for the TI-83 series of calculators. I took a class on Python in high school (version 2) and soon after another one in college (version 3) and by this point I was 15 or 16. Out of boredom I learned C through K&R, reading source code, and websites (Beej's guide sticks out as a good one). Which takes us to now.
+
+I am intimately familiar with TI-BASIC (lol), decent at Python 3, C, okay at Python 2, HTML, CSS, JS. I have the CompTIA PC Pro and Network Pro certifications as well. 17 years old, from Maine. I don't, however, plan to get a job in the field of programming. This is my hobby. I like making little snippets of code here and there and giving them to the public, for whatever use they may hold, and I like making things that let me make things easier.
+
+cya 0n d4 1n73rw3bz...
