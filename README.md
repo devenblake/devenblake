@@ -1,4 +1,5 @@
 - [![trinity.moe!](https://ia801804.us.archive.org/20/items/trinmoe3/trinnow.bmp)](https://www.github.com/devenblake/homepage/)
+- [dmenubar: a hack that turns dmenu into a bar like lemonbar](https://git.sr.ht/~trinity/dmenubar)
 - [dotfiles](https://git.sr.ht/~trinity/dotfiles)
 - [it: the line editor of the future](https://git.sr.ht/~trinity/it)
 - [packrat: archival frontend](https://git.sr.ht/~trinity/packrat)
